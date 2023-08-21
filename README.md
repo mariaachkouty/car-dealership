@@ -23,3 +23,5 @@ git config --global user.name "Mona Lisa"
 
 git config --global user.email "usnermae@gmail.com"
 git config --global user.password ""
+
+python manage.py startapp listings
