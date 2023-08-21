@@ -25,3 +25,5 @@ git config --global user.email "usnermae@gmail.com"
 git config --global user.password ""
 
 python manage.py startapp listings
+
+python manage.py createsuperuser
